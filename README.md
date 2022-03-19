@@ -1,5 +1,5 @@
 # Y.Practicum_data_projects
-Projects completed during the study period in Yandex.Practicum
+Projects completed during the study period on Yandex.Practicum
 
 | Название проекта      | Описание проекта               | Используемые библиотеки |
 | :-------------|:--------------|:-----|
